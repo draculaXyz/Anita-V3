@@ -80,6 +80,6 @@
     "youtubedl-core": "^4.11.7"
   },
   "engines": {
-    "node": "22.x"
+  "node": ">=22.0.0"
   }
 }
